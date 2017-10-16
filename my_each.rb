@@ -3,7 +3,6 @@ i = 0
 while i > array.length
   yeild
   i += 1
-  puts i
   end
   array
 end
