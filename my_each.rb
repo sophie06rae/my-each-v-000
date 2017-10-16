@@ -4,4 +4,5 @@ while i > array.length
   i += 0
   yeild
   end
+  array
 end
